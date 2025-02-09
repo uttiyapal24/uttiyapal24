@@ -8,8 +8,8 @@
 - 
 - ⚡ Fun fact: Interview's sucks! -->
 
-<h1 align="center">Hi 👋, I'm abhishek</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Uttiya</h1>
+<h3 align="center">I’m a Software Developer/Engineering</h3>
 
 - 🔭 I’m currently working on **spring boot project**
 
